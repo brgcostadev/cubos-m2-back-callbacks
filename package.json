@@ -1,0 +1,23 @@
+{
+  "name": "exercicios-backend-callbacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brgcostadev/exercicios-backend-callbacks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brgcostadev/exercicios-backend-callbacks/issues"
+  },
+  "homepage": "https://github.com/brgcostadev/exercicios-backend-callbacks#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0"
+  }
+}
